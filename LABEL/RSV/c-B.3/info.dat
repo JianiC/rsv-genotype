@@ -1,0 +1,21 @@
+0	B.3.1
+1	B.3.10
+2	B.3.2
+3	B.3.3
+4	B.3.4
+5	B.3.5
+6	B.3.6
+7	B.3.7
+8	B.3.8
+9	B.3.9
+
+1	1|JN032120|USA|01/21/10|BA|G-duplication|no-insert_{B.3.6}
+2	1|JQ582843|USA|07/02/02|NA|no-duplication|insert_{B.3.2}
+3	1|KJ939930|Viet_Nam|10/26/09|NA|G-duplication|insert_{B.3.4}
+4	1|KU316158|USA|07/02/96|NA|G-duplication|insert_{B.3.1}
+5	1|KU950458|USA|12/16/13|NA|G-duplication|no-insert_{B.3.7}
+6	1|KU950604|USA|06/19/13|NA|G-duplication|no-insert_{B.3.8}
+7	1|KX765968|New_Zealand|08/05/10|NA|G-duplication|no-insert_{B.3.9}
+8	1|MG839544|Argentina|06/26/15|NA|G-duplication|no-insert_{B.3.3}
+9	1|MH594389|Kenya|03/15/10|NA|G-duplication|no-insert_{B.3.5}
+10	1|MK109779|Jordan|03/21/10|NA|G-duplication|no-insert_{B.3.10}

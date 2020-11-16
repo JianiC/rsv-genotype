@@ -1,0 +1,17 @@
+0	A.1
+1	A.3
+2	A.4
+3	B.1
+4	B.2
+5	c-A.2
+6	c-A.5
+7	c-B.3
+
+1	1|JF920062|USA|01/06/1998|GA7|no_duplication_{A.3}
+2	1|JX576744|Netherlands|12/22/08|BA|G-duplication|no-insert_{c-B.3}
+3	1|KJ627314|Peru|05/18/2009|NA|no_duplication_{A.4}
+4	1|KJ643468|USA|07/02/2013|NA|no_duplication_{c-A.2}
+5	1|KP258715|USA|07/02/1988|NA|no_duplication_{A.1}
+6	1|KP258721|USA|07/02/81|NA|no-duplication|no-insert_{B.2}
+7	1|MG642027|USA|07/02/91|NA|no-duplication|insert_{B.1}
+8	1|MH760605|Australia|05/30/2012|NA|no_duplication_{c-A.5}

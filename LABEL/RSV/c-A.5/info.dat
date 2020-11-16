@@ -1,0 +1,23 @@
+0	A.5.1
+1	A.5.10
+2	A.5.11
+3	A.5.2
+4	A.5.3
+5	A.5.4
+6	A.5.5
+7	A.5.6
+8	A.5.7
+9	A.5.8
+10	A.5.9
+
+1	1|JF920054|USA|02/16/2010|GA2|no_duplication_{A.5.3}
+2	1|JX015493|Netherlands|01/07/2008|GA2|no_duplication_{A.5.2}
+3	1|KF826833|Italy|03/19/2009|GA2|no_duplication_{A.5.4}
+4	1|KJ627264|Peru|05/16/2012|NA|G-duplication_{A.5.9}
+5	1|KJ627281|Peru|04/14/2009|NA|no_duplication_{A.5.1}
+6	1|KT285064|China|12/29/2014|ON1|G-duplication_{A.5.7}
+7	1|KU950671|USA|11/08/2012|NA|G-duplication_{A.5.8}
+8	1|KY654513|Philippines|01/08/2013|ON1|G-duplication_{A.5.10}
+9	1|MH182028|Kenya|01/02/2015|ON1|G-duplication_{A.5.11}
+10	1|MH760601|Australia|07/09/2012|NA|no_duplication_{A.5.5}
+11	1|MH760605|Australia|05/30/2012|NA|no_duplication_{A.5.6}

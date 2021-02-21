@@ -12,7 +12,7 @@
 % A. Krogh et al., Hidden Markov models in computational biology:
 %  Applications to protein modeling, JMB 235:1501-1531, Feb 1994.
 % ---------------------------------------------------------------------
-%  c-B.3_hmm   Host: Jianis-MacBook-Pro.local    Thu Nov 12 10:37:06 2020
+%  c-B.3_hmm   Host: Jianis-MacBook-Pro.local    Wed Feb 17 18:06:11 2021
 %  jianichen   Dir:  /Users/jianichen/flu-amd_LABEL/LABEL_RES/training_data/RSV/base
 % ---------------------------------------------------------------------
 %  Alignment weights from internal calc.  Total (20.59) Max (0.08) Min (0.04)

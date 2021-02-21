@@ -7,11 +7,11 @@
 6	c-A.5
 7	c-B.3
 
-1	1|JF920062|USA|01/06/1998|GA7|no_duplication_{A.3}
-2	1|JX576744|Netherlands|12/22/08|BA|G-duplication|no-insert_{c-B.3}
-3	1|KJ627314|Peru|05/18/2009|NA|no_duplication_{A.4}
-4	1|KJ643468|USA|07/02/2013|NA|no_duplication_{c-A.2}
-5	1|KP258715|USA|07/02/1988|NA|no_duplication_{A.1}
-6	1|KP258721|USA|07/02/81|NA|no-duplication|no-insert_{B.2}
-7	1|MG642027|USA|07/02/91|NA|no-duplication|insert_{B.1}
-8	1|MH760605|Australia|05/30/2012|NA|no_duplication_{c-A.5}
+1	1|JX069801|USA|03/02/1998|GA7|no_duplication_{A.3}
+2	1|KF973338|USA|07/02/2002|NA|no_duplication_{c-A.2}
+3	1|KJ627276|Peru|04/29/2009|NA|no_duplication_{A.4}
+4	1|KP258696|USA|07/02/1986|NA|no_duplication_{A.1}
+5	1|KP258720|USA|07/02/90|NA|no-duplication|insert_{B.2}
+6	1|KX765895|New_Zealand|05/31/14|NA|G-duplication|no-insert_{c-B.3}
+7	1|MG642046|USA|07/02/84|NA|no-duplication|insert_{B.1}
+8	1|MH182014|Kenya|12/15/2014|ON1|G-duplication_{c-A.5}

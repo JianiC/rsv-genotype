@@ -1,4 +1,12 @@
 # rsv-genotype
 
-## Displaying multiple trees
- rsvA: https://nextstrain.org/community/JianiC/rsv-genotype/A/WGS:community/JianiC/rsv-genotype/A/G
+## auspice folder is used for nextstrain depoly via community
+https://nextstrain.org/community/JianiC/rsv-genotype/
+
+Reference:
+
+## LABEL folder is a customized RSV genotype classification module
+
+Instruction to install LABEL-rsv module
+
+Reference:

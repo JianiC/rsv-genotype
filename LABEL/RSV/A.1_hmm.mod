@@ -1,4 +1,4 @@
-%  SAM: /Users/jianichen/flu-amd_LABEL/LABEL_RES/scripts/modelfromalign_Darwin v3.5 (July 15, 2005) compiled 03/03/09_11:47:37
+%  SAM: /Users/jianichen/flu-amd/LABEL_RES/scripts/modelfromalign_Darwin v3.5 (July 15, 2005) compiled 03/03/09_11:47:37
 %  (c) 1992-2001 Regents of the University of California, Santa Cruz
 %
 %          Sequence Alignment and Modeling Software System
@@ -12,12 +12,12 @@
 % A. Krogh et al., Hidden Markov models in computational biology:
 %  Applications to protein modeling, JMB 235:1501-1531, Feb 1994.
 % ---------------------------------------------------------------------
-%  A.1_hmm   Host: Jianis-MacBook-Pro.local    Wed Feb 17 18:06:08 2021
-%  jianichen   Dir:  /Users/jianichen/flu-amd_LABEL/LABEL_RES/training_data/RSV/base
+%  A.1_hmm   Host: compsups-iMac.local    Wed Sep  1 10:01:07 2021
+%  jianichen   Dir:  /Users/jianichen/flu-amd/LABEL_RES/training_data/RSV/base
 % ---------------------------------------------------------------------
 %  Alignment weights from internal calc.  Total (2.45) Max (0.42) Min (0.41)
 %  Weights from alignment method 1 (karplus), b=-1.000000, e=0.500000
-MODEL --  Model from alignment file /Users/jianichen/flu-amd_LABEL/LABEL_RES/training_data/RSV/A.1.fasta
+MODEL --  Model from alignment file /Users/jianichen/flu-amd/LABEL_RES/training_data/RSV/A.1.fasta
 alphabet DNA
 FREQAVE
 0.000000 0.000000 0.000000 
